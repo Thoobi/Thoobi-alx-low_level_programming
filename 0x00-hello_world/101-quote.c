@@ -11,5 +11,5 @@ int main(void)
 	long len = 59;
 
 	write(2, msg, len);
-	return(1);
+	return (1);
 }
